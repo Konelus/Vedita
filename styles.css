@@ -1,0 +1,13 @@
+* { cursor: default; }
+
+div { width: 700px; margin: auto; padding-top: 15px; }
+table { width: 100%; border-collapse: collapse; }
+td { padding: 10px 15px; border: solid 1px black; }
+thead tr { background: slategrey; color: white; }
+tbody tr:hover { background: lightslategrey; color: white; }
+tbody input { padding: 5px; cursor: pointer; }
+
+.btn-edit { width: 30px; }
+.btn-hid { width: 100%;  }
+
+.center { text-align: center; }
